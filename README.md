@@ -1,5 +1,5 @@
 # Introduction
-This repository contains a series of R scripts and Markdown files developed for the analysis of opioid policies in the United States. The project aligns with the research presented in the paper "Understanding the Impact of Opioid Policies: An Analytical Study" published in the Healthcare journal (MDPI). Link to the paper. (https://www.mdpi.com/2227-9032/11/3/437)
+This repository contains a series of R scripts and Markdown files developed for the analysis of opioid policies in the United States. The project aligns with the research presented in the paper "Understanding the Impact of Opioid Policies: An Analytical Study" published in the Healthcare journal (MDPI). [Link to the paper](https://www.mdpi.com/2227-9032/11/3/437)
 
 # File Descriptions
 `ProjectUSOpioidPolicy__DataPrep1.R`: This script handles the initial data preparation phase, including data cleaning and standardization processes.
